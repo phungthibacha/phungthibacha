@@ -12,7 +12,7 @@ I'm proficient in various cloud platforms, data warehousing solutions, and data 
 ## Contact
 
 *   [LinkedIn](www.linkedin.com/in/phung-thi-bac-ha)
-*   [GitHub](Your GitHub Link Here)
+*   [Email](phungthibacha@gmail.com)
 
 ## Projects
 
@@ -36,17 +36,17 @@ Here's a glimpse into some of the projects I've been working on:
 
 **On-Premise (SQL):**
 
-*   [MySQL Project Name](MySQL Project Link): Brief description of the MySQL project (e.g., Developing a database for inventory management using MySQL.)
+*   [Atliq Hardware Data Analytics Project using MySQL](https://github.com/phungthibacha/MySQL_Sale-SupplyChain_Analysis): Data warehouse built using MySQL with a star & snowflake schema architecture for efficient analysis. Developing insightful reports, and automating tasks (User-defined functions & Store procedures for generating various reports) to empower business users with self-service capabilities.
 
 **Python:**
 
-*   [Python Project Name](Python Project Link): Brief description of the Python project (e.g., Data analysis and visualization project using Pandas and Matplotlib.)
-    *(Add more Python projects as needed)*
+*   [Retail Strategy Optimization: A Data-Driven Journey for Chip Retail Management](https://github.com/phungthibacha/Python_Retail-Strategy-and-Analytics): Using Python to understand chip purchasing behavior, identify key customer segments, and provide actionable recommendations for boosting chip sales while keeping snackers happy.
+*   [Data Analysis in Hospitality Domain: Atliq Grands Case Study](https://github.com/phungthibacha/Python_Data_Analysis_Hospitality_Domain): Atliq Grands, a prominent Indian hotel chain, faced declining revenue and market share. This project leverages data analytics to improve their decision-making and regain a competitive edge.
 
 **Power BI:**
 
-*   [Power BI Project Name](Power BI Project Link): Brief description of the Power BI project (e.g., Creating interactive dashboards and reports for sales performance analysis.)
-    *(Add more Power BI projects as needed)*
+*   [Business Insights 360 Dashboard for Atliq Hardware: Unleashing Data-Driven Insights to Empower Decision-Making](https://github.com/phungthibacha/PowerBI_Business_Insights360_For_Department_Managers): A comprehensive Business Intelligence 360 dashboard developed in Power BI for Atliq Hardware, a leading Indian computer peripherals manufacturer. The dashboard empowers various departments with actionable insights to drive strategic decision-making, boost operational efficiency, and strengthen the company's competitive edge.
+*   [Power BI Dashboard for Call Center Performance Analysis](https://github.com/phungthibacha/PowerBI_Call_Centre_Performance): Power BI dashboard designed to analyze and visualize key performance indicators (KPIs) for a call center operation. Built during my virtual data analyst internship at PwC, this project helped PhoneNow's call center manager gain valuable insights into customer and agent behavior, driving actionable improvements.
 
 ## Skills
 
