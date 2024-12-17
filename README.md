@@ -11,7 +11,7 @@ I'm proficient in various cloud platforms, data warehousing solutions, and data 
 
 ## Contact
 
-*   [LinkedIn](Your LinkedIn Link Here)
+*   [LinkedIn](www.linkedin.com/in/phung-thi-bac-ha)
 *   [GitHub](Your GitHub Link Here)
 
 ## Projects
