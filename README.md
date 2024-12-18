@@ -23,14 +23,12 @@ Here's a glimpse into some of the projects I've been working on:
 **Azure + Databricks:**
 
 *   [Project 1 Name](Project 1 Link): Brief description of Project 1 (e.g., Real-time data ingestion pipeline using Azure Event Hubs and Databricks Delta Lake.)
-*   [Project 2 Name](Project 2 Link): Brief description of Project 2 (e.g., Building a data lakehouse on Azure using Databricks and Azure Data Lake Storage Gen2.)
-    *(Add more projects as needed)*
+*   [End-to-End Data Engineering with Azure, Databricks and dbt: A Deep Dive](https://github.com/phungthibacha/adventureworks_dbt_databricks): This project demonstrates a complete data engineering pipeline leveraging Azure Databricks, Data Build Tool (DBT), and Azure cloud services. The project adheres to a Medalion Architecture, a data management paradigm that promotes a structured and iterative approach to data processing, ensuring data quality and reliability throughout the lifecycle.
 
 **AWS + Snowflake + dbt:**
 
 *   [Project 1 Name](Project 1 Link): Brief description of Project 1 (e.g., Implementing an ELT pipeline on AWS using Snowflake for data warehousing and dbt for transformations.)
 *   [Project 2 Name](Project 2 Link): Brief description of Project 2 (e.g., Building a data mart on Snowflake using dbt for business intelligence reporting.)
-    *(Add more projects as needed)*
 
 ### Data Analyst Projects
 
