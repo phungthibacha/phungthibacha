@@ -12,7 +12,6 @@ I'm proficient in various cloud platforms, data warehousing solutions, and data 
 ## Contact
 
 *   [LinkedIn](www.linkedin.com/in/phung-thi-bac-ha)
-*   [Email](phungthibacha@gmail.com)
 
 ## Projects
 
