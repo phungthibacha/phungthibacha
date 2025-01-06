@@ -22,7 +22,7 @@ Here's a glimpse into some of the projects I've been working on:
 
 **Azure + Databricks:**
 
-*   [Project 1 Name](Project 1 Link): Brief description of Project 1 (e.g., Real-time data ingestion pipeline using Azure Event Hubs and Databricks Delta Lake.)
+*   [Unlocking Customer Insights: On-Premises to Azure Data Pipeline with Databricks](https://github.com/phungthibacha/Unlocking-Customer-Insights-On-Premises-to-Azure-Data-Pipeline-with-Databricks): This project demonstrates an end-to-end data pipeline solution using Azure Data Factory, Azure Databricks, Azure Data Lake Storage Gen2, and Azure Key Vault. It extracts data from an on-premises MySQL database, performs transformations (including SCD Type 2 implementation), and creates an optimized "One Big Table" for analytical reporting. The pipeline is automated for daily execution.
 *   [End-to-End Data Engineering with Azure, Databricks and dbt: A Deep Dive](https://github.com/phungthibacha/adventureworks_dbt_databricks): This project demonstrates a complete data engineering pipeline leveraging Azure Databricks, Data Build Tool (DBT), and Azure cloud services. The project adheres to a Medalion Architecture, a data management paradigm that promotes a structured and iterative approach to data processing, ensuring data quality and reliability throughout the lifecycle.
 
 **AWS + Snowflake + dbt:**
