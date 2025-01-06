@@ -9,10 +9,6 @@ I'm proficient in various cloud platforms, data warehousing solutions, and data 
 *   **ETL/ELT:** dbt, Databricks
 *   **Programming Languages:** SQL, Python, PySpark
 
-## Contact
-
-*   [LinkedIn](www.linkedin.com/in/phung-thi-bac-ha)
-
 ## Projects
 
 Here's a glimpse into some of the projects I've been working on:
