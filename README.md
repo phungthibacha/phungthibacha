@@ -40,10 +40,6 @@ Here's a glimpse into some of the projects I've been working on:
 *   [Retail Strategy Optimization: A Data-Driven Journey for Chip Retail Management](https://github.com/phungthibacha/Python_Retail-Strategy-and-Analytics): Using Python to understand chip purchasing behavior, identify key customer segments, and provide actionable recommendations for boosting chip sales while keeping snackers happy.
 *   [Data Analysis in Hospitality Domain: Atliq Grands Case Study](https://github.com/phungthibacha/Python_Data_Analysis_Hospitality_Domain): Atliq Grands, a prominent Indian hotel chain, faced declining revenue and market share. This project leverages data analytics to improve their decision-making and regain a competitive edge.
 
-**Power BI:**
-
-*   [Business Insights 360 Dashboard for Atliq Hardware: Unleashing Data-Driven Insights to Empower Decision-Making](https://github.com/phungthibacha/PowerBI_Business_Insights360_For_Department_Managers): A comprehensive Business Intelligence 360 dashboard developed in Power BI for Atliq Hardware, a leading Indian computer peripherals manufacturer. The dashboard empowers various departments with actionable insights to drive strategic decision-making, boost operational efficiency, and strengthen the company's competitive edge.
-*   [Power BI Dashboard for Call Center Performance Analysis](https://github.com/phungthibacha/PowerBI_Call_Centre_Performance): Power BI dashboard designed to analyze and visualize key performance indicators (KPIs) for a call center operation. Built during my virtual data analyst internship at PwC, this project helped PhoneNow's call center manager gain valuable insights into customer and agent behavior, driving actionable improvements.
 
 ## Skills
 
