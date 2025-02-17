@@ -5,9 +5,10 @@ Hi there! I'm Phung Thi Bac Ha, a passionate and certified Databricks Data Engin
 I'm proficient in various cloud platforms, data warehousing solutions, and data transformation tools, including:
 
 *   **Cloud Platforms:** Azure, AWS
-*   **Data Warehouses:** Snowflake
 *   **ETL/ELT:** dbt, Databricks
 *   **Programming Languages:** SQL, Python, PySpark
+*   **Infrastructure as Code:** Terraform, Databricks Asset Bundles
+*   **DevOps**: Github Actions, Azure DevOps
 
 ## Projects
 
