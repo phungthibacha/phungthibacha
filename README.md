@@ -27,8 +27,8 @@ Here's a glimpse into some of the projects I've been working on:
   
 **AWS + Databricks + Kafka/ Kinesis:**
 
-*   [Project 1 Name](Project 1 Link): Brief description of Project 1 (e.g., Implementing an ELT pipeline on AWS using Snowflake for data warehousing and dbt for transformations.)
-*   [Project 2 Name](Project 2 Link): Brief description of Project 2 (e.g., Building a data mart on Snowflake using dbt for business intelligence reporting.)
+*   [Project 1 Name](Project 1 Link): Brief description of Project 1 
+*   [Project 2 Name](Project 2 Link): Brief description of Project 2 
 
 ### Data Analyst Projects
 
