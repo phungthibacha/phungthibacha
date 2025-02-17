@@ -25,7 +25,7 @@ Here's a glimpse into some of the projects I've been working on:
 **dbt + MySQL**
 *   [Atliq Data Engineering with dbt and MySQL: Building an Efficient Data Pipeline](https://github.com/phungthibacha/dbt_mysql_project): This project showcases expertise in building a robust data warehouse for Atliq Hardware using dbt and MySQL.  It covers the full data engineering lifecycle, from data extraction and transformation to loading and quality assurance. Key achievements include designing a dimensional data model, implementing complex data transformations using dbt macros, ensuring data quality through comprehensive testing, and creating a "One Big Table" for self-service business intelligence.  Proficient in dbt, MySQL, SQL, YAML, and Git, this project demonstrates strong data warehousing skills and best practices.
   
-**AWS + Snowflake + dbt:**
+**AWS + Databricks + Kafka/ Kinesis:**
 
 *   [Project 1 Name](Project 1 Link): Brief description of Project 1 (e.g., Implementing an ELT pipeline on AWS using Snowflake for data warehousing and dbt for transformations.)
 *   [Project 2 Name](Project 2 Link): Brief description of Project 2 (e.g., Building a data mart on Snowflake using dbt for business intelligence reporting.)
