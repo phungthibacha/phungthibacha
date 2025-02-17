@@ -45,13 +45,13 @@ Here's a glimpse into some of the projects I've been working on:
 ## Skills
 
 *   Databricks (Certified Data Engineer Professional)
-*   Azure Data Services (e.g., Data Factory, Data Lake Storage, Event Hubs)
-*   AWS Services (e.g., S3, EC2, Lambda)
-*   Snowflake
+*   Azure Data Services (Data Factory, Data Lake Storage, Event Hubs)
+*   AWS Services (S3, Kinesis)
 *   dbt (Data Build Tool)
-*   SQL (MySQL, etc.)
+*   SQL (MySQL, Postgresql)
 *   Python
 *   PySpark
+*   Kafka
 *   Power BI
 
 I'm always eager to learn and explore new technologies in the data engineering field. Feel free to connect and discuss potential collaborations or opportunities!
